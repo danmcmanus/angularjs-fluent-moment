@@ -16,8 +16,8 @@
     "url": "https://github.com/danmcmanus/angularjs-fluent-moment/issues"
   },
   "homepage": "https://github.com/danmcmanus/angularjs-fluent-moment#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "moment-with-locales-es6": "^1.0.1"
-  }
+  "dependencies": {
+    "moment-with-locales-es6": "1.0.1"
+  },
+  "devDependencies": {}
 }
